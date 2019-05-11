@@ -37,5 +37,12 @@
             "version": "0.0+gitc6ae983"
         }
     ],
-    "release": []
+    "release": [
+        {
+            "created": "2019-05-11 03:08:04.846759",
+            "lfortran_commit_sha": "c6ae983a4fbc59b6a0b030c7cf7586b1d03140a1",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.1.11.tar.gz",
+            "version": "0.1.11"
+        }
+    ]
 }
