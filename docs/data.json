@@ -121,6 +121,12 @@
             "lfortran_commit_sha": "c6ae983a4fbc59b6a0b030c7cf7586b1d03140a1",
             "url": "https://lfortran.github.io/tarballs/release/lfortran-0.1.11.tar.gz",
             "version": "0.1.11"
+        },
+        {
+            "created": "2019-05-16 04:44:46.351829",
+            "lfortran_commit_sha": "4c057177cdea8ddf552284a41f687cc752f7e7c5",
+            "url": "https://lfortran.github.io/tarballs/release/lfortran-0.1.12.tar.gz",
+            "version": "0.1.12"
         }
     ]
 }
