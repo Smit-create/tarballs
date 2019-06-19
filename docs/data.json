@@ -149,6 +149,12 @@
             "lfortran_commit_sha": "1e05fa245459b08c3080c5642eb5660a4c87298b",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.0+git1e05fa2.tar.gz",
             "version": "0.0+git1e05fa2"
+        },
+        {
+            "created": "2019-06-19 06:29:44.552865",
+            "lfortran_commit_sha": "6734fd405a1bdfe0815815624a159beeffc72fe2",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.0+git6734fd4.tar.gz",
+            "version": "0.0+git6734fd4"
         }
     ],
     "release": [
