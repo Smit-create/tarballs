@@ -1073,6 +1073,12 @@
             "lfortran_commit_sha": "dcc70009800244fe5def53d41c2eef353cebad39",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.0+gitdcc7000.tar.gz",
             "version": "0.0+gitdcc7000"
+        },
+        {
+            "created": "2020-07-08 07:15:21.251680",
+            "lfortran_commit_sha": "08e0c429e82b790870654be38f32cb0c60a395e2",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.0+git08e0c42.tar.gz",
+            "version": "0.0+git08e0c42"
         }
     ],
     "release": [
