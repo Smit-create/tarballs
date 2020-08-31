@@ -2015,6 +2015,12 @@
             "lfortran_commit_sha": "7f88301acaf54193872f81d31e1c8d07955765f4",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.7.0-129-g7f88301a.tar.gz",
             "version": "0.7.0-129-g7f88301a"
+        },
+        {
+            "created": "2020-08-31 20:17:38.862593",
+            "lfortran_commit_sha": "35f9ff82bd5ab53fce97a9e41b1bb278aa0ba092",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.7.0-132-g35f9ff82.tar.gz",
+            "version": "0.7.0-132-g35f9ff82"
         }
     ],
     "release": [
