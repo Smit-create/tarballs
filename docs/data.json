@@ -2393,6 +2393,12 @@
             "lfortran_commit_sha": "41545f1d47d6d9e0bc5a03c3fe0b5f0b933ffbbd",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.8.1-88-g41545f1d.tar.gz",
             "version": "0.8.1-88-g41545f1d"
+        },
+        {
+            "created": "2020-10-06 20:19:05.277824",
+            "lfortran_commit_sha": "1f906d6ec8e74067289cd1fec5de440e0fe27416",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.8.1-99-g1f906d6e.tar.gz",
+            "version": "0.8.1-99-g1f906d6e"
         }
     ],
     "release": [
