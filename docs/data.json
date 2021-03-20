@@ -2897,6 +2897,12 @@
             "lfortran_commit_sha": "206ff056a39fe8b336f6e5baa2079d05c334b9c2",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.10.0-152-g206ff056.tar.gz",
             "version": "0.10.0-152-g206ff056"
+        },
+        {
+            "created": "2021-03-20 14:00:00.433016",
+            "lfortran_commit_sha": "16ba34532e64c21c131a30c90223841bc35525f9",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.10.0-154-g16ba3453.tar.gz",
+            "version": "0.10.0-154-g16ba3453"
         }
     ],
     "release": [
