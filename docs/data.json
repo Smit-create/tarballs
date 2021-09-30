@@ -6275,6 +6275,12 @@
             "lfortran_commit_sha": "a0fe7d7baf1d2efa32c7b96519aada4397ea918c",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.14.0-115-ga0fe7d7b.tar.gz",
             "version": "0.14.0-115-ga0fe7d7b"
+        },
+        {
+            "created": "2021-09-30 01:08:00.609445",
+            "lfortran_commit_sha": "132ba970898d49e97847021e5bb38468a8917b52",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.14.0-117-g132ba970.tar.gz",
+            "version": "0.14.0-117-g132ba970"
         }
     ],
     "release": [
