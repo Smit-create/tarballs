@@ -7925,6 +7925,12 @@
             "lfortran_commit_sha": "c34179fb5c7d257482f304da5e8c170bdd96d4bc",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.14.0-1518-gc34179fb.tar.gz",
             "version": "0.14.0-1518-gc34179fb"
+        },
+        {
+            "created": "2022-04-22 16:32:02.809547",
+            "lfortran_commit_sha": "acabdac3981b418352834bbd7de14a4f1b4cd0ee",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.14.0-1524-gacabdac3.tar.gz",
+            "version": "0.14.0-1524-gacabdac3"
         }
     ],
     "release": [
