@@ -8375,6 +8375,12 @@
             "lfortran_commit_sha": "12b59f8588d69e15de47cf13b2fb04384cf57691",
             "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.15.0-292-g12b59f858.tar.gz",
             "version": "0.15.0-292-g12b59f858"
+        },
+        {
+            "created": "2022-06-26 09:03:05.844636",
+            "lfortran_commit_sha": "b2e6aae38a0e0d0b63bf46c42856d6536ebcc964",
+            "url": "https://lfortran.github.io/tarballs/dev/lfortran-0.15.0-302-gb2e6aae38.tar.gz",
+            "version": "0.15.0-302-gb2e6aae38"
         }
     ],
     "release": [
