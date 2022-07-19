@@ -1,0 +1,12 @@
+{
+    "dev": [],
+    "release": [],
+    "testing": [
+        {
+            "created": "2022-07-19 05:14:00.330765",
+            "lfortran_commit_sha": "1c1c63928",
+            "url": "https://lfortran.github.io/tarballs/testing/lfortran-0.15.0-537-g1c1c63928.tar.gz",
+            "version": "0.15.0-537-g1c1c63928"
+        }
+    ]
+}
